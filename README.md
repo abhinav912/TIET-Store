@@ -6,7 +6,9 @@
  Download repository and run the following commands :<br>
  1) <strong>npm install</strong><br>
  2) <strong>npm start</strong><br>
- 3) To enable payments open /functions directory in terminal and run: <strong>firebase emulators:start</strong>
+ To enable payments open /functions directory in terminal and run: <br>
+ 3) <strong>npm install</strong><br>
+ 4) <strong>firebase emulators:start</strong>
  </p>
  <h2> Screenshots </h2> 
 <h3>Login Screen</h3>
