@@ -1,0 +1,22 @@
+/* . {
+    background-image: url("https://images.adsttc.com/media/images/5bf3/8f5f/08a5/e509/1100/01ce/large_jpg/-_Featured_Image.jpg?1542688591");
+} */
+.order {
+    padding: 40px;
+    margin: 20px 0;
+    border: 1px solid lightgray;
+    background-color: white;
+    position: relative;
+}
+
+.order__id {
+    position: absolute;
+    top: 40px;
+    right: 20px;
+  }
+
+.order__total {
+    font-weight: 500;
+    text-align: right;
+  }
+  
