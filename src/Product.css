@@ -1,3 +1,8 @@
+button:hover{
+    transform: scale(1.1);
+        transition-duration: 0.2s;
+    
+}
 .product{
  display: flex;
  flex-direction: column;

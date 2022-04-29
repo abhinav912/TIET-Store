@@ -24,8 +24,9 @@ function App() {
 
   function PrivateRoute ({children,...rest}){
     return(
+      console.log("HIIIIIIIIIIII",user),
       <Route{...rest} render={()=>{
-        return user?children:<Redirect to='/login' />
+        return user==null?<Redirect to='/login' />:children
       }} />
     )
   }
@@ -41,6 +42,7 @@ function App() {
           })
 
       } else{
+        
         dispatch({
           type:'SET_USER',
           user:null
