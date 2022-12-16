@@ -9,7 +9,8 @@
  2) <strong>React.js for the frontend</strong><br>
  3) <strong>Stripe as payments gateway</strong><br>
  </p>
- 
+ <h2>Live Link<h2>
+ https://clone-67066.web.app/
  <h2> To Run Locally </h2>
  <p>
  Download repository and run the following commands :<br>
