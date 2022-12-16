@@ -1,6 +1,15 @@
-<h1>TIET Store</h1> <h2>This is a functional shopping app intended to be a clone of Amazon and some of its features. This clone is mixed with my design style and features that I thought would make it look better. This was created with React and incorporates Firebase Cloud Firestore, Firebase authentication, and accepts payments through Stripe.</h2> 
+<h1>TITLE: TIET Store</h1> 
+<h1>Description :</h1>
+<h2>This is a functional shopping app intended to be a clone of Amazon and some of its features. This clone is mixed with my design style and features that I thought would make it look better. This was created with React and incorporates Firebase Cloud Firestore, Firebase authentication, and accepts payments through Stripe.</h2> 
 <hr></hr>
  <a href="https://clone-67066.web.app/"> App link </a> 
+ <h2> Methodology</h2>
+ <p>
+ 1) <strong>Used Firebase for User authentication</strong><br>
+ 2) <strong>React.js for the frontend</strong><br>
+ 3) <strong>Stripe as payments gateway</strong><br>
+ </p>
+ 
  <h2> To Run Locally </h2>
  <p>
  Download repository and run the following commands :<br>
